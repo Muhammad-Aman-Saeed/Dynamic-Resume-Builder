@@ -69,3 +69,17 @@ button:hover{
     background-color: #82a3b4;
     
 }
+
+#resumeOutput{
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid #295b8e;
+    border-radius: 8px;
+    background-color: #3498bd;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);   
+}
+
+#resumeOutput h2 {
+    color:#023d53 ;
+}
